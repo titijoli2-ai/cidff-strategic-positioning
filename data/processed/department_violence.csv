@@ -1,0 +1,81 @@
+department_code,region_code,year,violence_type,count_unit,recorded_victims,rate_per_1000,population,population_reference_year,housing_units,housing_reference_year,department
+38,84,2016,Violences physiques intrafamiliales,Victime,1826,1.4574048,1252912,2016,639743,2016,Isère
+69,84,2016,Violences physiques intrafamiliales,Victime,3170,1.7266707,1835903,2016,904462,2016,Rhône
+73,84,2016,Violences physiques intrafamiliales,Victime,532,1.2381278,429681,2016,341648,2016,Savoie
+74,84,2016,Violences physiques intrafamiliales,Victime,1049,1.3089332,801416,2016,500698,2016,Haute-Savoie
+38,84,2017,Violences physiques intrafamiliales,Victime,1956,1.5539571,1258722,2017,646707,2017,Isère
+69,84,2017,Violences physiques intrafamiliales,Victime,3130,1.6980241,1843319,2017,914980,2017,Rhône
+73,84,2017,Violences physiques intrafamiliales,Victime,501,1.1619439,431174,2017,345226,2017,Savoie
+74,84,2017,Violences physiques intrafamiliales,Victime,1002,1.241082,807360,2017,508229,2017,Haute-Savoie
+38,84,2018,Violences physiques intrafamiliales,Victime,2241,1.7735562,1263563,2018,653289,2018,Isère
+69,84,2018,Violences physiques intrafamiliales,Victime,3754,2.0187962,1859524,2018,926576,2018,Rhône
+73,84,2018,Violences physiques intrafamiliales,Victime,675,1.5562893,433724,2018,349226,2018,Savoie
+74,84,2018,Violences physiques intrafamiliales,Victime,1180,1.4448408,816699,2018,517217,2018,Haute-Savoie
+38,84,2019,Violences physiques intrafamiliales,Victime,2665,2.0965004,1271166,2019,659031,2019,Isère
+69,84,2019,Violences physiques intrafamiliales,Victime,4381,2.3356028,1875747,2019,937544,2019,Rhône
+73,84,2019,Violences physiques intrafamiliales,Victime,808,1.8513681,436434,2019,352254,2019,Savoie
+74,84,2019,Violences physiques intrafamiliales,Victime,1555,1.8823524,826094,2019,525404,2019,Haute-Savoie
+38,84,2020,Violences physiques intrafamiliales,Victime,3063,2.3976273,1277513,2020,665362,2020,Isère
+69,84,2020,Violences physiques intrafamiliales,Victime,4501,2.38978,1883437,2020,949531,2020,Rhône
+73,84,2020,Violences physiques intrafamiliales,Victime,947,2.1534963,439750,2020,355575,2020,Savoie
+74,84,2020,Violences physiques intrafamiliales,Victime,1813,2.170722,835206,2020,533337,2020,Haute-Savoie
+38,84,2021,Violences physiques intrafamiliales,Victime,3264,2.5401806,1284948,2021,673024,2021,Isère
+69,84,2021,Violences physiques intrafamiliales,Victime,5070,2.6773097,1893692,2021,964037,2021,Rhône
+73,84,2021,Violences physiques intrafamiliales,Victime,1025,2.3165517,442468,2021,358886,2021,Savoie
+74,84,2021,Violences physiques intrafamiliales,Victime,2035,2.4183524,841482,2021,540705,2021,Haute-Savoie
+38,84,2022,Violences physiques intrafamiliales,Victime,3748,2.9023215,1291380,2022,681287,2022,Isère
+69,84,2022,Violences physiques intrafamiliales,Victime,5618,2.9444722,1907982,2022,977442,2022,Rhône
+73,84,2022,Violences physiques intrafamiliales,Victime,1130,2.5376835,445288,2022,362857,2022,Savoie
+74,84,2022,Violences physiques intrafamiliales,Victime,2274,2.6766072,849583,2022,548601,2022,Haute-Savoie
+38,84,2023,Violences physiques intrafamiliales,Victime,4233,3.2586856,1298990,2023,681287,2022,Isère
+69,84,2023,Violences physiques intrafamiliales,Victime,5899,3.0809535,1914667,2023,977442,2022,Rhône
+73,84,2023,Violences physiques intrafamiliales,Victime,1326,2.9583291,448226,2023,362857,2022,Savoie
+74,84,2023,Violences physiques intrafamiliales,Victime,2387,2.7718491,861158,2023,548601,2022,Haute-Savoie
+38,84,2024,Violences physiques intrafamiliales,Victime,4366,3.3610728,1298990,2023,681287,2022,Isère
+69,84,2024,Violences physiques intrafamiliales,Victime,5704,2.9791081,1914667,2023,977442,2022,Rhône
+73,84,2024,Violences physiques intrafamiliales,Victime,1315,2.9337879,448226,2023,362857,2022,Savoie
+74,84,2024,Violences physiques intrafamiliales,Victime,2640,3.0656395,861158,2023,548601,2022,Haute-Savoie
+38,84,2025,Violences physiques intrafamiliales,Victime,4472,3.4426747,1298990,2023,681287,2022,Isère
+69,84,2025,Violences physiques intrafamiliales,Victime,5853,3.0569284,1914667,2023,977442,2022,Rhône
+73,84,2025,Violences physiques intrafamiliales,Victime,1332,2.9717152,448226,2023,362857,2022,Savoie
+74,84,2025,Violences physiques intrafamiliales,Victime,2829,3.2851114,861158,2023,548601,2022,Haute-Savoie
+38,84,2016,Violences sexuelles,Victime,873,0.6967768,1252912,2016,639743,2016,Isère
+69,84,2016,Violences sexuelles,Victime,1373,0.7478609,1835903,2016,904462,2016,Rhône
+73,84,2016,Violences sexuelles,Victime,315,0.733102,429681,2016,341648,2016,Savoie
+74,84,2016,Violences sexuelles,Victime,522,0.6513471,801416,2016,500698,2016,Haute-Savoie
+38,84,2017,Violences sexuelles,Victime,916,0.7277222,1258722,2017,646707,2017,Isère
+69,84,2017,Violences sexuelles,Victime,1541,0.835992,1843319,2017,914980,2017,Rhône
+73,84,2017,Violences sexuelles,Victime,335,0.7769485,431174,2017,345226,2017,Savoie
+74,84,2017,Violences sexuelles,Victime,557,0.6899029,807360,2017,508229,2017,Haute-Savoie
+38,84,2018,Violences sexuelles,Victime,1175,0.9299101,1263563,2018,653289,2018,Isère
+69,84,2018,Violences sexuelles,Victime,1814,0.9755185,1859524,2018,926576,2018,Rhône
+73,84,2018,Violences sexuelles,Victime,394,0.9084118,433724,2018,349226,2018,Savoie
+74,84,2018,Violences sexuelles,Victime,639,0.782418,816699,2018,517217,2018,Haute-Savoie
+38,84,2019,Violences sexuelles,Victime,1322,1.0399901,1271166,2019,659031,2019,Isère
+69,84,2019,Violences sexuelles,Victime,2099,1.1190208,1875747,2019,937544,2019,Rhône
+73,84,2019,Violences sexuelles,Victime,435,0.9967143,436434,2019,352254,2019,Savoie
+74,84,2019,Violences sexuelles,Victime,710,0.8594664,826094,2019,525404,2019,Haute-Savoie
+38,84,2020,Violences sexuelles,Victime,1388,1.086486,1277513,2020,665362,2020,Isère
+69,84,2020,Violences sexuelles,Victime,2046,1.0863119,1883437,2020,949531,2020,Rhône
+73,84,2020,Violences sexuelles,Victime,492,1.1188175,439750,2020,355575,2020,Savoie
+74,84,2020,Violences sexuelles,Victime,849,1.0165157,835206,2020,533337,2020,Haute-Savoie
+38,84,2021,Violences sexuelles,Victime,1610,1.252969,1284948,2021,673024,2021,Isère
+69,84,2021,Violences sexuelles,Victime,2366,1.2494112,1893692,2021,964037,2021,Rhône
+73,84,2021,Violences sexuelles,Victime,605,1.3673305,442468,2021,358886,2021,Savoie
+74,84,2021,Violences sexuelles,Victime,1010,1.2002633,841482,2021,540705,2021,Haute-Savoie
+38,84,2022,Violences sexuelles,Victime,1825,1.4132169,1291380,2022,681287,2022,Isère
+69,84,2022,Violences sexuelles,Victime,2704,1.4172041,1907982,2022,977442,2022,Rhône
+73,84,2022,Violences sexuelles,Victime,601,1.3496883,445288,2022,362857,2022,Savoie
+74,84,2022,Violences sexuelles,Victime,1119,1.3171168,849583,2022,548601,2022,Haute-Savoie
+38,84,2023,Violences sexuelles,Victime,2000,1.5396577,1298990,2023,681287,2022,Isère
+69,84,2023,Violences sexuelles,Victime,3099,1.6185582,1914667,2023,977442,2022,Rhône
+73,84,2023,Violences sexuelles,Victime,691,1.541633,448226,2023,362857,2022,Savoie
+74,84,2023,Violences sexuelles,Victime,1096,1.2727049,861158,2023,548601,2022,Haute-Savoie
+38,84,2024,Violences sexuelles,Victime,2240,1.7244167,1298990,2023,681287,2022,Isère
+69,84,2024,Violences sexuelles,Victime,3078,1.6075902,1914667,2023,977442,2022,Rhône
+73,84,2024,Violences sexuelles,Victime,733,1.6353357,448226,2023,362857,2022,Savoie
+74,84,2024,Violences sexuelles,Victime,1246,1.446889,861158,2023,548601,2022,Haute-Savoie
+38,84,2025,Violences sexuelles,Victime,2352,1.8106375,1298990,2023,681287,2022,Isère
+69,84,2025,Violences sexuelles,Victime,3429,1.7909119,1914667,2023,977442,2022,Rhône
+73,84,2025,Violences sexuelles,Victime,778,1.7357315,448226,2023,362857,2022,Savoie
+74,84,2025,Violences sexuelles,Victime,1417,1.6454588,861158,2023,548601,2022,Haute-Savoie

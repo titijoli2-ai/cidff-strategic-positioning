@@ -1,0 +1,2 @@
+model,alpha,class_weight,test_respondents,accuracy,balanced_accuracy,roc_auc
+SGD logistic regression,0.01,balanced,556,0.5617034542009143,0.5787239720426953,0.570272098023789

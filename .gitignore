@@ -1,0 +1,21 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Temporary Office files
+~$*
+
+# Large RNA source archive
+/data/raw/rna_waldec_20261001.zip

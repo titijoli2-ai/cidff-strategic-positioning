@@ -1,0 +1,62 @@
+﻿table_name,column_name,data_type,allows_null,key_type,description
+associations,rna_id,varchar(20),NO,PRI,Official RNA association identifier.
+associations,siret,char(14),YES,,14-digit identifier of an establishment.
+associations,association_name,text,NO,,Association or beneficiary name recorded in the source.
+associations,association_purpose,text,YES,,Declared association purpose recorded in the RNA.
+associations,creation_date,date,YES,,Association creation date recorded in the RNA.
+associations,creation_year,smallint,YES,,Year extracted from the association creation date.
+associations,municipality_code,char(5),YES,,INSEE municipality code of the recorded address.
+associations,municipality_name,varchar(255),YES,,Municipality name of the recorded address.
+associations,postal_code,char(5),YES,,Postal code of the recorded address.
+associations,department_code,char(2),NO,MUL,Department code used to locate the record.
+associations,website,text,YES,,Website address recorded in the source.
+associations,administrative_status,char(1),YES,,Association status code recorded in the RNA.
+associations,vss_vif,tinyint(1),YES,,Keyword-based flag for sexual or domestic violence topics.
+associations,women_equality,tinyint(1),YES,,Keyword-based flag for women or gender equality topics.
+department_violence,department_code,char(2),NO,PRI,Department code used to locate the record.
+department_violence,region_code,smallint,YES,,Region code recorded in the source.
+department_violence,year,smallint,NO,PRI,Year covered by the observation or payment record.
+department_violence,violence_type,varchar(100),NO,PRI,Category of violence measured in the source.
+department_violence,count_unit,varchar(100),YES,,Unit used to count recorded offences or victims.
+department_violence,recorded_victims,int,YES,,Number of victims recorded by police and gendarmerie.
+department_violence,rate_per_1000,double,YES,,"Recorded rate per 1,000 inhabitants."
+department_violence,population,int,YES,,Population denominator provided in the source.
+department_violence,population_reference_year,smallint,YES,,Reference year of the population denominator.
+department_violence,housing_units,int,YES,,Number of housing units provided in the source.
+department_violence,housing_reference_year,smallint,YES,,Reference year of the housing denominator.
+departments,department_code,char(2),NO,PRI,Department code used to locate the record.
+departments,department_name,varchar(50),NO,,Department name.
+directory_departments,directory_id,int,NO,PRI,Project identifier of an additional directory entry.
+directory_departments,department_code,char(2),NO,PRI,Department code used to locate the record.
+directory_organizations,directory_id,int,NO,PRI,Project identifier of an additional directory entry.
+directory_organizations,organization_name,varchar(255),NO,,Organization name in the additional directory.
+directory_organizations,data_source,varchar(255),NO,,Source used to identify the directory organization.
+directory_organizations,rna_id,varchar(20),YES,,Official RNA association identifier.
+directory_organizations,head_office_verified,tinyint(1),YES,,Flag indicating whether head office verification was recorded.
+funding_payments,funding_id,int,NO,PRI,Project identifier of a funding record.
+funding_payments,year,smallint,NO,,Year covered by the observation or payment record.
+funding_payments,department_code,char(2),NO,MUL,Department code used to locate the record.
+funding_payments,municipality_code,char(5),YES,,INSEE municipality code of the recorded address.
+funding_payments,municipality_name,varchar(255),YES,,Municipality name of the recorded address.
+funding_payments,siren,char(9),YES,,9-digit identifier of a legal entity.
+funding_payments,nic,char(5),YES,,5-digit establishment code used with the SIREN.
+funding_payments,association_name,text,YES,,Association or beneficiary name recorded in the source.
+funding_payments,budget_program,varchar(10),YES,MUL,State budget program code.
+funding_payments,amount,"decimal(18,2)",NO,,Recorded state payment amount in euros.
+funding_payments,funding_purpose,text,YES,,Payment purpose recorded for the year concerned.
+funding_payments,agreement,text,YES,,Agreement information recorded in the source.
+funding_payments,siren_original,text,YES,,SIREN value retained before correction.
+funding_payments,siren_corrected,tinyint(1),YES,,Flag indicating that the SIREN was corrected.
+funding_payments,siren_format_valid,tinyint(1),YES,,"Flag indicating a valid 9-digit SIREN format, not verified identity."
+funding_payments,geography_corrected,tinyint(1),YES,,Flag indicating that shifted geographic fields were corrected.
+funding_payments,identical_record_flag,tinyint(1),YES,,Flag for identical records retained because duplicate payments are unconfirmed.
+funding_payments,siret,char(14),YES,,14-digit identifier of an establishment.
+funding_payments,historical_purpose_context,text,YES,,"Historical purpose used as context, not as the confirmed current purpose."
+healthcare_services,directory_service_id,varchar(50),NO,PRI,Healthcare service identifier from the source directory.
+healthcare_services,service_name,varchar(255),NO,,Healthcare service name.
+healthcare_services,department_code,char(2),NO,MUL,Department code used to locate the record.
+healthcare_services,postal_code,char(5),YES,,Postal code of the recorded address.
+minor_intrafamily_violence,department_code,char(2),NO,PRI,Department code used to locate the record.
+minor_intrafamily_violence,period,varchar(9),NO,PRI,Period covered by the observation.
+minor_intrafamily_violence,violence_type,varchar(100),NO,PRI,Category of violence measured in the source.
+minor_intrafamily_violence,rate_per_1000_minors,double,YES,,"Average annual recorded victim rate per 1,000 minors over the period."

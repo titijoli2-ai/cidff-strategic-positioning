@@ -1,0 +1,9 @@
+department_code,department,rate_per_1000_minors,violence_type,period
+38,Isère,3.4636893578405914,Physical violence,2022-2024
+69,Rhône,2.147580039086116,Physical violence,2022-2024
+73,Savoie,2.8826455955516535,Physical violence,2022-2024
+74,Haute-Savoie,2.28916895054478,Physical violence,2022-2024
+38,Isère,1.1723792559748931,Sexual violence,2022-2024
+69,Rhône,0.8433784013666563,Sexual violence,2022-2024
+73,Savoie,1.0169739537606086,Sexual violence,2022-2024
+74,Haute-Savoie,0.9752776807790935,Sexual violence,2022-2024
